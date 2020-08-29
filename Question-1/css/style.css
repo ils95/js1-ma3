@@ -1,0 +1,14 @@
+ 
+
+.results {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid grey;
+}
+
+.error {
+    border: 1px solid darkred;
+    padding: 1em;
+    color: darkred;
+    background: rgba(255, 0, 0, 0.1);
+}
